@@ -1,3 +1,7 @@
+
+now im pulling this from remote to local 
+
+
 this is from local system updated on 11:24
 pwd
     2  ls

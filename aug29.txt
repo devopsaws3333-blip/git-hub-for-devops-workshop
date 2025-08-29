@@ -1,0 +1,1 @@
+he push command, in the context of Git, is used to upload local repository content to a remote repository. This process transfers commits from your local machine to a remote server, such as GitHub or GitLab, making your changes accessible to other collaborators. 

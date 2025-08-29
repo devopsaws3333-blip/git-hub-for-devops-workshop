@@ -1,12 +1,15 @@
-this is some ne changes @ 11:14
-
-
-
+this is from local system updated on 11:24
 pwd
     2  ls
     3  cd ..
     4  ls
-    5  cd
+    5  cd    git branch: Lists all branches in the repository.
+    git branch <branch-name>: Creates a new branch with the specified name.
+    git checkout <branch-name>: Switches to a different branch.
+    git checkout -b <new-branch-name>: Creates a new branch and switches to it.
+    git merge <branch-name>: Merges changes from another branch into the current branch.
+    git branch -d <branch-name>: Deletes the specified branch (if merged).
+
     6  pwdd
     7  pwd
     8  clear
@@ -171,6 +174,3 @@ pwd
   167  clear
   168  ls
   169  cd /
-
-
-this is some new changes @11:19

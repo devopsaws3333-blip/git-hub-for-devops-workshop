@@ -1,0 +1,169 @@
+pwd
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd
+    6  pwdd
+    7  pwd
+    8  clear
+    9  sudo apt update
+   10  sudo apt upgrade
+   11  ls
+   12  cd
+   13  ls
+   14  clear
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd 
+   19  clear
+   20  ssh ubuntu@18.204.21.108
+   21  ssh -i ubuntu@18.204.21.108
+   22  sudo apt install ./<file>.deb
+   23  # If you're on an older Linux distribution, you will need to run this instead:
+   24  # sudo dpkg -i <file>.deb
+   25  # sudo apt-get install -f # Install dependencies
+   26  sudo dpkg -i <file>.deb
+   27  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem @ubuntu@34.227.65.99
+   28  chmod 600 ~/.ssh/your_key_file
+   29  chmod 600 ~//home/vishal-pc/Downloads/devops-ec2.pem
+   30  chmod 600 /home/vishal-pc/Downloads/devops-ec2.pem
+   31  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem @ubuntu@34.227.65.99
+   32  ssh -i ~/.ssh/your_key.pem ubuntu@34.227.65.99
+   33  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem @ubuntu@34.227.65.99
+   34  cd Downloads
+   35  ls -l
+   36  ls -l ~/.ssh/
+   37  cd
+   38  ls -l ~/.ssh/
+   39  ssh -i ~/.ssh/my-key.pem ubuntu@34.227.65.99
+   40  ssh -i ~/.ssh/devops-ec2.pem  ubuntu@34.227.65.99
+   41  ssh -i ~/.ssh/devops-ec2.pem ubuntu@34.227.65.99
+   42  ssh -i ~/.ssh//home/vishal-pc/Downloads/devops-ec2.pem ubuntu@34.227.65.99
+   43  chmod 600 /home/vishal-pc/Downloads/devops-ec2.pem
+   44  ls -l
+   45  cd downloads
+   46  cd Dosnloads
+   47  cd Downloads
+   48  ls -l
+   49  ssh -i ~/.ssh//home/vishal-pc/Downloads/devops-ec2.pem ubuntu@34.227.65.99
+   50  clear
+   51  cd
+   52  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem ubuntu@34.227.65.99
+   53  chmod 400 /home/vishal-pc/Downloads/devops-ec2.pem
+   54  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem ubuntu@34.227.65.99
+   55  ssh -i /home/vishal-pc/Downloads/new-devosp-ec2.pem ubuntu@34.227.65.99
+   56  chmod 600 home/vishal-pc/Downloads/new-devosp-ec2.pem
+   57  chmod 600 /home/vishal-pc/Downloads/new-devosp-ec2.pem
+   58  ssh -i /home/vishal-pc/Downloads/new-devosp-ec2.pem ubuntu@34.227.65.99
+   59  clear
+   60  ssh -i /home/vishal-pc/Downloads/new-devops-ec2.pem ubuntu@34.227.65.99     # For Ubuntu
+   61  ssh -i /home/vishal-pc/Downloads/new-devops-ec2.pem ec2-user@34.227.65.99   # For Amazon Linux / RHEL
+   62  ssh -i /home/vishal-pc/Downloads/new-devops-ec2.pem admin@34.227.65.99      # For Debian
+   63  ssh -i /home/vishal-pc/Downloads/new-devops-ec2.pem ubuntu@34.227.65.99 -v
+   64  ls -l /home/vishal-pc/Downloads/*.pem
+   65  chmod 400 /home/vishal-pc/Downloads/devops-ec2.pem
+   66  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem ubuntu@34.227.65.99
+   67  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem Ubuntu@34.227.65.99
+   68  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem ec2-user@34.227.65.99
+   69  ls -l /home/vishal-pc/Downloads/*.pem
+   70  ssh -i /home/vishal-pc/Downloads/devops-ec2.pem ec2-user@34.227.65.99
+   71  clear
+   72  ssh -i "jenkins ec2.pem" ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+   73  ssh -i /home/vishal-pc/Downloads/new-devosp-ec2.pem ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+   74  chnod 600  /home/vishal-pc/Downloads/new-devosp-ec2.pem
+   75  chnod 600 /home/vishal-pc/Downloads/new-devosp-ec2.pem
+   76  chmod 600 /home/vishal-pc/Downloads/new-devosp-ec2.pem
+   77  ssh -i /home/vishal-pc/Downloads/new-devosp-ec2.pem ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+   78  chmod 400 /home/vishal-pc/Downloads/devops-ec2.pem
+   79  ssh -i /home/vishal-pc/Downloads/new-devosp-ec2.pem ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+   80  ls -l /home/vishal-pc/Downloads/*.pem
+   81  clear
+   82  cd Downloads
+   83  ls
+   84  ssh -i tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.co
+   85  cd
+   86  ls -l
+   87  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.co
+   88  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.co ubuntu@54.161.194.231
+   89  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+   90  chmod 400 /home/vishal-pc/Downloads/tws-voloum-key.pem
+   91  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+   92  chmod 400 /home/vishal-pc/Downloads/tws-voloum-key.pem
+   93  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+   94  chmod
+   95  chmod 600 /home/vishal-pc/Downloads/tws-voloum-key.pem
+   96  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+   97  chmod 755 /home/vishal-pc/Downloads/tws-voloum-key.pem
+   98  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+   99  chmod 000 /home/vishal-pc/Downloads/tws-voloum-key.pem
+  100  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+  101  chmod 600 /home/vishal-pc/Downloads/tws-voloum-key.pem
+  102  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+  103  chmod 755 /home/vishal-pc/Downloads/tws-voloum-key.pem
+  104  ssh -i /home/vishal-pc/Downloads/tws-voloum-key.pem ubuntu@ec2-54-161-194-231.compute-1.amazonaws.com
+  105  chmod 400 "jenkins ec2.pem"
+  106  cd Downloads
+  107  ls
+  108  chmod 400 "jenkins ec2.pem"
+  109  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@54.91.89.73
+  110  cd
+  111  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@54.91.89.73
+  112  Warning: Identity file /home/vishal-pc/Downloads/jenkins not accessible: No such file or directory.
+  113  ssh: Could not resolve hostname ec2.pem: Name or service not known
+  114  clear
+  115  ls
+  116  cd vishalpc-Lenovo-Z50-70
+  117  ls
+  118  clear
+  119  d
+  120  cd
+  121  clear
+  122  ssh
+  123  cd Downloads
+  124  ls
+  125  chmod 400 "jenkins ec2.pem"
+  126  ssh -i jenkins ec2.pem ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+  127  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+  128  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ssh -i "jenkins ec2.pem" ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+  129  chmod 400 "jenkins ec2.pem"
+  130  chmod 400 /home/vishal-pc/Downloads/jenkins ec2.pem
+  131  df
+  132  clear
+  133  chmod 400 /home/vishal-pc/Downloads/jenkins ec2.pem
+  134  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ssh -i "jenkins ec2.pem" ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+  135  ssh -i /home/vishal-pc/Downloads/jenkins.pem ec2-user@your-ec2-public-ip
+  136  ssh -i /home/vishal-pc/Downloads/jenkins.pem ec2-user@54.123.45.67
+  137  du.
+  138  du .
+  139  clear
+  140  sudo instsll ssh
+  141  sudo apt install openssh-server
+  142  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ ec2-54-91-89-73.compute-1.amazonaws.com
+  143  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ssh -i "jenkins ec2.pem" ubuntu@ec2-54-91-89-73.compute-1.amazonaws.com
+  144  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ssh -i "jenkins ec2.pem" ubuntu@54.91.89.73
+  145  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@54.91.89.73
+  146  chmod 400 "jenkins ec2.pem"
+  147  cd Downloads
+  148  ls
+  149  chmod 400 "jenkins ec2.pem"
+  150  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@54.91.89.73
+  151  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@ssh -i "jenkins ec2.pem" ubuntu@54.91.89.73
+  152  ssh -i /home/vishal-pc/Downloads/jenkins ec2.pem ubuntu@54.91.89.73
+  153  ls /home/vishal-pc/Downloads/ec2.pem
+  154  ssh -i /home/vishal-pc/Downloads/ec2.pem ec2-user@<EC2-public-IP-or-DNS>
+  155  chmod 400 /home/vishal-pc/Downloads/ec2.pem
+  156  ssh -i /home/vishal-pc/Downloads/ec2.pem ubuntu@54.91.89.73
+  157  clear
+  158  ls -l /home/vishal-pc/Downloads/
+  159  chmod 400 "tws-volume-key.pem"
+  160  ls
+  161  clear
+  162  cd
+  163  top
+  164  free
+  165  free -h
+  166  top
+  167  clear
+  168  ls
+  169  cd /
